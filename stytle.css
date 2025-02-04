@@ -10,16 +10,16 @@ body{
   font-weight: weight;
   font-style: normal;
  display: flex;
- 
+ background:linear-gradient(#0000e6,#fff099);
 }
 .content{
-    background:linear-gradient(#0000e6,#fff099);
+    
     display:flex;
     color:  #0000e6;
     padding: 30px;
-    flex-wrap: nowrap;
+    flex-wrap:wrap;
     border-radius:10px;
-   
+   margin: 10px;
 }
 
 img{
