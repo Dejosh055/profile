@@ -14,12 +14,12 @@ body{
 }
 .content{
     background:linear-gradient(#0000e6,#fff099);
-    display: inline-flex;
+    display:flex;
     color:  #0000e6;
     padding: 30px;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     border-radius:10px;
-    max-width: 70%;
+   
 }
 
 img{
